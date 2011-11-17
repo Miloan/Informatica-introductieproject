@@ -1,0 +1,1060 @@
+!SESSION 2011-11-17 16:20:03.428 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-11-17 16:22:46.985
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:22:46.985
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:22:46.986
+!MESSAGE Software being installed: Android Development Tools 15.0.0.v201110251216-213216 (com.android.ide.eclipse.adt.feature.group 15.0.0.v201110251216-213216)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:22:46.986
+!MESSAGE Missing requirement: Android Development Tools 15.0.0.v201110251216-213216 (com.android.ide.eclipse.adt.feature.group 15.0.0.v201110251216-213216) requires 'org.eclipse.wst.sse.core 0.0.0' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-11-17 16:22:46.990
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:22:46.991
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:22:46.991
+!MESSAGE Software being installed: Android Development Tools 15.0.0.v201110251216-213216 (com.android.ide.eclipse.adt.feature.group 15.0.0.v201110251216-213216)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:22:46.991
+!MESSAGE Missing requirement: Android Development Tools 15.0.0.v201110251216-213216 (com.android.ide.eclipse.adt.feature.group 15.0.0.v201110251216-213216) requires 'org.eclipse.wst.sse.core 0.0.0' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-11-17 16:23:01.428
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:23:01.428
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:23:01.428
+!MESSAGE Software being installed: Android Development Tools 15.0.0.v201110251216-213216 (com.android.ide.eclipse.adt.feature.group 15.0.0.v201110251216-213216)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:23:01.429
+!MESSAGE Missing requirement: Android Development Tools 15.0.0.v201110251216-213216 (com.android.ide.eclipse.adt.feature.group 15.0.0.v201110251216-213216) requires 'org.eclipse.wst.sse.core 0.0.0' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-11-17 16:23:01.430
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:23:01.430
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:23:01.430
+!MESSAGE Software being installed: Android Development Tools 15.0.0.v201110251216-213216 (com.android.ide.eclipse.adt.feature.group 15.0.0.v201110251216-213216)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:23:01.431
+!MESSAGE Missing requirement: Android Development Tools 15.0.0.v201110251216-213216 (com.android.ide.eclipse.adt.feature.group 15.0.0.v201110251216-213216) requires 'org.eclipse.wst.sse.core 0.0.0' but it could not be found
+!SESSION 2011-11-17 16:24:04.840 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-11-17 16:24:39.813
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2011-11-17 16:24:39.813
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10005 2011-11-17 16:24:39.813
+!MESSAGE "Android DDMS" will be ignored because it is already installed.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10005 2011-11-17 16:24:39.813
+!MESSAGE "Android Hierarchy Viewer" will be ignored because it is already installed.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10005 2011-11-17 16:24:39.813
+!MESSAGE "Android Traceview" will be ignored because it is already installed.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:24:39.813
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:24:39.813
+!MESSAGE Software being installed: Android Development Tools 15.0.0.v201110251216-213216 (com.android.ide.eclipse.adt.feature.group 15.0.0.v201110251216-213216)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:24:39.813
+!MESSAGE Missing requirement: Android Development Tools 15.0.0.v201110251216-213216 (com.android.ide.eclipse.adt.feature.group 15.0.0.v201110251216-213216) requires 'org.eclipse.wst.sse.core 0.0.0' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-11-17 16:24:39.820
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2011-11-17 16:24:39.820
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10005 2011-11-17 16:24:39.821
+!MESSAGE "Android DDMS" will be ignored because it is already installed.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10005 2011-11-17 16:24:39.821
+!MESSAGE "Android Hierarchy Viewer" will be ignored because it is already installed.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10005 2011-11-17 16:24:39.821
+!MESSAGE "Android Traceview" will be ignored because it is already installed.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:24:39.821
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:24:39.821
+!MESSAGE Software being installed: Android Development Tools 15.0.0.v201110251216-213216 (com.android.ide.eclipse.adt.feature.group 15.0.0.v201110251216-213216)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:24:39.821
+!MESSAGE Missing requirement: Android Development Tools 15.0.0.v201110251216-213216 (com.android.ide.eclipse.adt.feature.group 15.0.0.v201110251216-213216) requires 'org.eclipse.wst.sse.core 0.0.0' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-11-17 16:24:52.531
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:24:52.531
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:24:52.531
+!MESSAGE Software being installed: Android Development Tools 15.0.0.v201110251216-213216 (com.android.ide.eclipse.adt.feature.group 15.0.0.v201110251216-213216)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:24:52.531
+!MESSAGE Missing requirement: Android Development Tools 15.0.0.v201110251216-213216 (com.android.ide.eclipse.adt.feature.group 15.0.0.v201110251216-213216) requires 'org.eclipse.wst.sse.core 0.0.0' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-11-17 16:24:52.532
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:24:52.532
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:24:52.532
+!MESSAGE Software being installed: Android Development Tools 15.0.0.v201110251216-213216 (com.android.ide.eclipse.adt.feature.group 15.0.0.v201110251216-213216)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:24:52.532
+!MESSAGE Missing requirement: Android Development Tools 15.0.0.v201110251216-213216 (com.android.ide.eclipse.adt.feature.group 15.0.0.v201110251216-213216) requires 'org.eclipse.wst.sse.core 0.0.0' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-11-17 16:27:19.627
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:27:19.627
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.627
+!MESSAGE Software being installed: Android Development Tools 15.0.0.v201110251216-213216 (com.android.ide.eclipse.adt.feature.group 15.0.0.v201110251216-213216)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.627
+!MESSAGE Software currently installed: Eclipse Platform 3.7.0.I20110613-1736 (org.eclipse.platform.ide 3.7.0.I20110613-1736)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:27:19.627
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.627
+!MESSAGE International Components for Unicode for Java (ICU4J) 4.4.2.v20110208 (com.ibm.icu 4.4.2.v20110208)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.628
+!MESSAGE International Components for Unicode for Java (ICU4J) 4.0.1.v20090822 (com.ibm.icu 4.0.1.v20090822)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.628
+!MESSAGE International Components for Unicode for Java (ICU4J) 4.0.1.v20090415 (com.ibm.icu 4.0.1.v20090415)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:27:19.628
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.628
+!MESSAGE From: Android Development Tools 15.0.0.v201110251216-213216 (com.android.ide.eclipse.adt.feature.group 15.0.0.v201110251216-213216)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.628
+!MESSAGE To: org.eclipse.wst.sse.ui 0.0.0
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:27:19.628
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.628
+!MESSAGE From: Java EMF Model Utilities 2.0.200.v200905140200 (org.eclipse.jem.util 2.0.200.v200905140200)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.628
+!MESSAGE To: bundle com.ibm.icu [3.8.1.1,4.1.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:27:19.628
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.628
+!MESSAGE From: Java EMF Model Utilities 2.0.201.v201001252130 (org.eclipse.jem.util 2.0.201.v201001252130)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.628
+!MESSAGE To: bundle com.ibm.icu [3.8.1.1,4.1.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:27:19.628
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.629
+!MESSAGE From: Eclipse Platform 3.7.0.dist-9pF7UHbtFs8vdhkukhQodUHz-siCnGGYotSeiRH (org.eclipse.platform.feature.group 3.7.0.dist-9pF7UHbtFs8vdhkukhQodUHz-siCnGGYotSeiRH)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.629
+!MESSAGE To: org.eclipse.rcp.feature.group [3.7.0.dist-9gBsFnkFlfr2B21319]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:27:19.629
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.629
+!MESSAGE From: Eclipse Platform 3.7.0.I20110613-1736 (org.eclipse.platform.ide 3.7.0.I20110613-1736)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.629
+!MESSAGE To: org.eclipse.platform.feature.group [3.7.0.dist-9pF7UHbtFs8vdhkukhQodUHz-siCnGGYotSeiRH]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:27:19.629
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.629
+!MESSAGE From: Eclipse RCP 3.7.0.dist-9gBsFnkFlfr2B21319 (org.eclipse.rcp.feature.group 3.7.0.dist-9gBsFnkFlfr2B21319)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.629
+!MESSAGE To: com.ibm.icu [4.4.2.v20110208]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:27:19.629
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.629
+!MESSAGE From: Common Frameworks 1.1.300.v200904160730 (org.eclipse.wst.common.frameworks 1.1.300.v200904160730)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.629
+!MESSAGE To: bundle org.eclipse.jem.util [2.0.100,3.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:27:19.629
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.629
+!MESSAGE From: Structured Source Editor 1.1.101.v200908261807 (org.eclipse.wst.sse.ui 1.1.101.v200908261807)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.629
+!MESSAGE To: bundle org.eclipse.wst.validation [1.2.0,1.3.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:27:19.629
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.629
+!MESSAGE From: Structured Source Editor 1.1.102.v200910200227 (org.eclipse.wst.sse.ui 1.1.102.v200910200227)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.629
+!MESSAGE To: bundle org.eclipse.wst.validation [1.2.0,1.3.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:27:19.629
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.629
+!MESSAGE From: Validation Framework 1.2.102.v200905201610 (org.eclipse.wst.validation 1.2.102.v200905201610)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.630
+!MESSAGE To: bundle org.eclipse.wst.common.frameworks [1.1.200,2.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:27:19.630
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.630
+!MESSAGE From: Validation Framework 1.2.104.v200911120201 (org.eclipse.wst.validation 1.2.104.v200911120201)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.630
+!MESSAGE To: bundle org.eclipse.wst.common.frameworks [1.1.200,2.0.0)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-11-17 16:27:19.632
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:27:19.632
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.632
+!MESSAGE Software being installed: Android Development Tools 15.0.0.v201110251216-213216 (com.android.ide.eclipse.adt.feature.group 15.0.0.v201110251216-213216)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.632
+!MESSAGE Software currently installed: Eclipse Platform 3.7.0.I20110613-1736 (org.eclipse.platform.ide 3.7.0.I20110613-1736)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:27:19.632
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.632
+!MESSAGE International Components for Unicode for Java (ICU4J) 4.4.2.v20110208 (com.ibm.icu 4.4.2.v20110208)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.632
+!MESSAGE International Components for Unicode for Java (ICU4J) 4.0.1.v20090822 (com.ibm.icu 4.0.1.v20090822)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.632
+!MESSAGE International Components for Unicode for Java (ICU4J) 4.0.1.v20090415 (com.ibm.icu 4.0.1.v20090415)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:27:19.632
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.632
+!MESSAGE From: Android Development Tools 15.0.0.v201110251216-213216 (com.android.ide.eclipse.adt.feature.group 15.0.0.v201110251216-213216)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.632
+!MESSAGE To: org.eclipse.wst.sse.ui 0.0.0
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:27:19.632
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.632
+!MESSAGE From: Java EMF Model Utilities 2.0.200.v200905140200 (org.eclipse.jem.util 2.0.200.v200905140200)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.632
+!MESSAGE To: bundle com.ibm.icu [3.8.1.1,4.1.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:27:19.632
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.632
+!MESSAGE From: Java EMF Model Utilities 2.0.201.v201001252130 (org.eclipse.jem.util 2.0.201.v201001252130)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.632
+!MESSAGE To: bundle com.ibm.icu [3.8.1.1,4.1.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:27:19.632
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.632
+!MESSAGE From: Eclipse Platform 3.7.0.dist-9pF7UHbtFs8vdhkukhQodUHz-siCnGGYotSeiRH (org.eclipse.platform.feature.group 3.7.0.dist-9pF7UHbtFs8vdhkukhQodUHz-siCnGGYotSeiRH)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.632
+!MESSAGE To: org.eclipse.rcp.feature.group [3.7.0.dist-9gBsFnkFlfr2B21319]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:27:19.632
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.632
+!MESSAGE From: Eclipse Platform 3.7.0.I20110613-1736 (org.eclipse.platform.ide 3.7.0.I20110613-1736)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.632
+!MESSAGE To: org.eclipse.platform.feature.group [3.7.0.dist-9pF7UHbtFs8vdhkukhQodUHz-siCnGGYotSeiRH]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:27:19.632
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.632
+!MESSAGE From: Eclipse RCP 3.7.0.dist-9gBsFnkFlfr2B21319 (org.eclipse.rcp.feature.group 3.7.0.dist-9gBsFnkFlfr2B21319)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.632
+!MESSAGE To: com.ibm.icu [4.4.2.v20110208]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:27:19.632
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.632
+!MESSAGE From: Common Frameworks 1.1.300.v200904160730 (org.eclipse.wst.common.frameworks 1.1.300.v200904160730)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.632
+!MESSAGE To: bundle org.eclipse.jem.util [2.0.100,3.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:27:19.632
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.632
+!MESSAGE From: Structured Source Editor 1.1.101.v200908261807 (org.eclipse.wst.sse.ui 1.1.101.v200908261807)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.632
+!MESSAGE To: bundle org.eclipse.wst.validation [1.2.0,1.3.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:27:19.632
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.632
+!MESSAGE From: Structured Source Editor 1.1.102.v200910200227 (org.eclipse.wst.sse.ui 1.1.102.v200910200227)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.632
+!MESSAGE To: bundle org.eclipse.wst.validation [1.2.0,1.3.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:27:19.633
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.633
+!MESSAGE From: Validation Framework 1.2.102.v200905201610 (org.eclipse.wst.validation 1.2.102.v200905201610)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.633
+!MESSAGE To: bundle org.eclipse.wst.common.frameworks [1.1.200,2.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:27:19.633
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.633
+!MESSAGE From: Validation Framework 1.2.104.v200911120201 (org.eclipse.wst.validation 1.2.104.v200911120201)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:27:19.633
+!MESSAGE To: bundle org.eclipse.wst.common.frameworks [1.1.200,2.0.0)
+
+!ENTRY org.eclipse.help.base 4 4 2011-11-17 16:28:04.856
+!MESSAGE Help documentation could not be indexed completely.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2011-11-17 16:28:04.856
+!MESSAGE Help document /org.eclipse.platform.doc.isv/samples/org.eclipse.ui.examples.propertysheet/doc-html/ui_propertysheet_ex.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2011-11-17 16:28:04.856
+!MESSAGE Help document /org.eclipse.platform.doc.isv/samples/org.eclipse.swt.examples/doc-html/swt_helloworld_ex.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2011-11-17 16:28:04.856
+!MESSAGE Help document /org.eclipse.platform.doc.isv/samples/org.eclipse.swt.examples/doc-html/swt_fileviewer_ex.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2011-11-17 16:28:04.856
+!MESSAGE Help document /org.eclipse.platform.doc.isv/samples/org.eclipse.swt.examples/doc-html/swt_javaviewer_ex.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2011-11-17 16:28:04.856
+!MESSAGE Help document /org.eclipse.platform.doc.isv/samples/org.eclipse.compare.examples.xml/doc-html/ui_xmlcompare_ex.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2011-11-17 16:28:04.856
+!MESSAGE Help document /org.eclipse.platform.doc.isv/samples/org.eclipse.swt.examples.controls/doc-html/swt_customcontrols_ex.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2011-11-17 16:28:04.856
+!MESSAGE Help document /org.eclipse.platform.doc.isv/samples/org.eclipse.swt.examples.browser/doc-html/swt_browser_ex.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2011-11-17 16:28:04.856
+!MESSAGE Help document /org.eclipse.platform.doc.isv/samples/org.eclipse.ui.examples.readmetool/doc-html/ui_readmetool_ex.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2011-11-17 16:28:04.856
+!MESSAGE Help document /org.eclipse.platform.doc.isv/samples/org.eclipse.team.examples.filesystem/doc-html/team_localhistory_ex.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2011-11-17 16:28:04.856
+!MESSAGE Help document /org.eclipse.platform.doc.isv/samples/org.eclipse.team.examples.filesystem/doc-html/team_model_ex.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2011-11-17 16:28:04.856
+!MESSAGE Help document /org.eclipse.platform.doc.isv/samples/org.eclipse.swt.examples/doc-html/swt_texteditor_ex.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2011-11-17 16:28:04.856
+!MESSAGE Help document /org.eclipse.platform.doc.isv/samples/org.eclipse.compare.examples/doc-html/ui_structurecreator_ex.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2011-11-17 16:28:04.856
+!MESSAGE Help document /org.eclipse.platform.doc.isv/samples/org.eclipse.swt.examples.layouts/doc-html/swt_layout_ex.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2011-11-17 16:28:04.856
+!MESSAGE Help document /org.eclipse.platform.doc.isv/samples/org.eclipse.swt.examples/doc-html/swt_addressbook_ex.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2011-11-17 16:28:04.856
+!MESSAGE Help document /org.eclipse.platform.doc.isv/samples/org.eclipse.swt.examples.ole.win32/doc-html/swt_ole_ex.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2011-11-17 16:28:04.856
+!MESSAGE Help document /org.eclipse.platform.doc.isv/samples/org.eclipse.ui.examples.javaeditor/doc-html/ui_javaeditor_ex.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2011-11-17 16:28:04.856
+!MESSAGE Help document /org.eclipse.platform.doc.isv/samples/org.eclipse.swt.examples.paint/doc-html/swt_paint_ex.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2011-11-17 16:28:04.856
+!MESSAGE Help document /org.eclipse.platform.doc.isv/samples/org.eclipse.swt.examples.launcher/doc-html/swt_launcher_ex.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2011-11-17 16:28:04.856
+!MESSAGE Help document /org.eclipse.platform.doc.isv/samples/org.eclipse.swt.examples/doc-html/swt_hoverhelp_ex.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2011-11-17 16:28:04.856
+!MESSAGE Help document /org.eclipse.platform.doc.isv/samples/org.eclipse.swt.examples/doc-html/swt_imageanalyzer_ex.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2011-11-17 16:28:04.856
+!MESSAGE Help document /org.eclipse.platform.doc.isv/samples/org.eclipse.ui.examples.multipageeditor/doc-html/ui_multipageeditor_ex.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2011-11-17 16:28:04.856
+!MESSAGE Help document /org.eclipse.platform.doc.isv/samples/org.eclipse.swt.examples/doc-html/swt_manual_setup.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2011-11-17 16:28:04.856
+!MESSAGE Help document /org.eclipse.platform.doc.isv/samples/org.eclipse.ui.examples.javaeditor/doc-html/ui_templateeditor_ex.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2011-11-17 16:28:04.856
+!MESSAGE Help document /org.eclipse.platform.doc.isv/samples/org.eclipse.ui.examples.fieldassist/doc-html/ui_fieldassist_ex.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2011-11-17 16:28:04.856
+!MESSAGE Help document /org.eclipse.platform.doc.isv/samples/org.eclipse.ui.examples.undo/doc-html/ui_undo_ex.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2011-11-17 16:28:04.857
+!MESSAGE Help document /org.eclipse.platform.doc.isv/samples/org.eclipse.swt.examples/doc-html/swt_clipboard_ex.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2011-11-17 16:28:04.857
+!MESSAGE Help document /org.eclipse.platform.doc.isv/samples/org.eclipse.team.examples.filesystem/doc-html/team_filesystem_ex.html cannot be opened.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2011-11-17 16:28:04.857
+!MESSAGE Help document /org.eclipse.platform.doc.isv/samples/org.eclipse.swt.examples.controls/doc-html/swt_controls_ex.html cannot be opened.
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-11-17 16:28:17.634
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10050 2011-11-17 16:28:17.634
+!MESSAGE Cannot complete the request.  See the error log for details.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10005 2011-11-17 16:28:17.634
+!MESSAGE "Android DDMS" will be ignored because it is already installed.
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-11-17 16:28:17.640
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 4 10050 2011-11-17 16:28:17.640
+!MESSAGE Cannot complete the request.  See the error log for details.
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10005 2011-11-17 16:28:17.640
+!MESSAGE "Android DDMS" will be ignored because it is already installed.
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-11-17 16:28:25.609
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:28:25.609
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.609
+!MESSAGE Software being installed: Android Development Tools 15.0.0.v201110251216-213216 (com.android.ide.eclipse.adt.feature.group 15.0.0.v201110251216-213216)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.609
+!MESSAGE Software currently installed: Eclipse Platform 3.7.0.I20110613-1736 (org.eclipse.platform.ide 3.7.0.I20110613-1736)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:28:25.609
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.609
+!MESSAGE International Components for Unicode for Java (ICU4J) 4.4.2.v20110208 (com.ibm.icu 4.4.2.v20110208)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.609
+!MESSAGE International Components for Unicode for Java (ICU4J) 4.0.1.v20090822 (com.ibm.icu 4.0.1.v20090822)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.609
+!MESSAGE International Components for Unicode for Java (ICU4J) 4.0.1.v20090415 (com.ibm.icu 4.0.1.v20090415)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:28:25.609
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.609
+!MESSAGE From: Android Development Tools 15.0.0.v201110251216-213216 (com.android.ide.eclipse.adt.feature.group 15.0.0.v201110251216-213216)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.610
+!MESSAGE To: org.eclipse.wst.sse.ui 0.0.0
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:28:25.610
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.610
+!MESSAGE From: Java EMF Model Utilities 2.0.200.v200905140200 (org.eclipse.jem.util 2.0.200.v200905140200)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.610
+!MESSAGE To: bundle com.ibm.icu [3.8.1.1,4.1.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:28:25.610
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.610
+!MESSAGE From: Java EMF Model Utilities 2.0.201.v201001252130 (org.eclipse.jem.util 2.0.201.v201001252130)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.610
+!MESSAGE To: bundle com.ibm.icu [3.8.1.1,4.1.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:28:25.610
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.610
+!MESSAGE From: Eclipse Platform 3.7.0.dist-9pF7UHbtFs8vdhkukhQodUHz-siCnGGYotSeiRH (org.eclipse.platform.feature.group 3.7.0.dist-9pF7UHbtFs8vdhkukhQodUHz-siCnGGYotSeiRH)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.610
+!MESSAGE To: org.eclipse.rcp.feature.group [3.7.0.dist-9gBsFnkFlfr2B21319]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:28:25.610
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.610
+!MESSAGE From: Eclipse Platform 3.7.0.I20110613-1736 (org.eclipse.platform.ide 3.7.0.I20110613-1736)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.610
+!MESSAGE To: org.eclipse.platform.feature.group [3.7.0.dist-9pF7UHbtFs8vdhkukhQodUHz-siCnGGYotSeiRH]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:28:25.610
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.610
+!MESSAGE From: Eclipse RCP 3.7.0.dist-9gBsFnkFlfr2B21319 (org.eclipse.rcp.feature.group 3.7.0.dist-9gBsFnkFlfr2B21319)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.610
+!MESSAGE To: com.ibm.icu [4.4.2.v20110208]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:28:25.610
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.610
+!MESSAGE From: Common Frameworks 1.1.300.v200904160730 (org.eclipse.wst.common.frameworks 1.1.300.v200904160730)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.610
+!MESSAGE To: bundle org.eclipse.jem.util [2.0.100,3.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:28:25.610
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.610
+!MESSAGE From: Structured Source Editor 1.1.101.v200908261807 (org.eclipse.wst.sse.ui 1.1.101.v200908261807)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.610
+!MESSAGE To: bundle org.eclipse.wst.validation [1.2.0,1.3.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:28:25.610
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.610
+!MESSAGE From: Structured Source Editor 1.1.102.v200910200227 (org.eclipse.wst.sse.ui 1.1.102.v200910200227)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.610
+!MESSAGE To: bundle org.eclipse.wst.validation [1.2.0,1.3.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:28:25.610
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.610
+!MESSAGE From: Validation Framework 1.2.102.v200905201610 (org.eclipse.wst.validation 1.2.102.v200905201610)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.610
+!MESSAGE To: bundle org.eclipse.wst.common.frameworks [1.1.200,2.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:28:25.610
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.610
+!MESSAGE From: Validation Framework 1.2.104.v200911120201 (org.eclipse.wst.validation 1.2.104.v200911120201)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.610
+!MESSAGE To: bundle org.eclipse.wst.common.frameworks [1.1.200,2.0.0)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-11-17 16:28:25.612
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:28:25.612
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.612
+!MESSAGE Software being installed: Android Development Tools 15.0.0.v201110251216-213216 (com.android.ide.eclipse.adt.feature.group 15.0.0.v201110251216-213216)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.612
+!MESSAGE Software currently installed: Eclipse Platform 3.7.0.I20110613-1736 (org.eclipse.platform.ide 3.7.0.I20110613-1736)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:28:25.612
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.612
+!MESSAGE International Components for Unicode for Java (ICU4J) 4.4.2.v20110208 (com.ibm.icu 4.4.2.v20110208)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.612
+!MESSAGE International Components for Unicode for Java (ICU4J) 4.0.1.v20090822 (com.ibm.icu 4.0.1.v20090822)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.612
+!MESSAGE International Components for Unicode for Java (ICU4J) 4.0.1.v20090415 (com.ibm.icu 4.0.1.v20090415)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:28:25.612
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.612
+!MESSAGE From: Android Development Tools 15.0.0.v201110251216-213216 (com.android.ide.eclipse.adt.feature.group 15.0.0.v201110251216-213216)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.612
+!MESSAGE To: org.eclipse.wst.sse.ui 0.0.0
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:28:25.612
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.612
+!MESSAGE From: Java EMF Model Utilities 2.0.200.v200905140200 (org.eclipse.jem.util 2.0.200.v200905140200)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.612
+!MESSAGE To: bundle com.ibm.icu [3.8.1.1,4.1.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:28:25.612
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.612
+!MESSAGE From: Java EMF Model Utilities 2.0.201.v201001252130 (org.eclipse.jem.util 2.0.201.v201001252130)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.612
+!MESSAGE To: bundle com.ibm.icu [3.8.1.1,4.1.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:28:25.612
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.612
+!MESSAGE From: Eclipse Platform 3.7.0.dist-9pF7UHbtFs8vdhkukhQodUHz-siCnGGYotSeiRH (org.eclipse.platform.feature.group 3.7.0.dist-9pF7UHbtFs8vdhkukhQodUHz-siCnGGYotSeiRH)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.612
+!MESSAGE To: org.eclipse.rcp.feature.group [3.7.0.dist-9gBsFnkFlfr2B21319]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:28:25.612
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.612
+!MESSAGE From: Eclipse Platform 3.7.0.I20110613-1736 (org.eclipse.platform.ide 3.7.0.I20110613-1736)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.612
+!MESSAGE To: org.eclipse.platform.feature.group [3.7.0.dist-9pF7UHbtFs8vdhkukhQodUHz-siCnGGYotSeiRH]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:28:25.612
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.612
+!MESSAGE From: Eclipse RCP 3.7.0.dist-9gBsFnkFlfr2B21319 (org.eclipse.rcp.feature.group 3.7.0.dist-9gBsFnkFlfr2B21319)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.612
+!MESSAGE To: com.ibm.icu [4.4.2.v20110208]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:28:25.612
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.612
+!MESSAGE From: Common Frameworks 1.1.300.v200904160730 (org.eclipse.wst.common.frameworks 1.1.300.v200904160730)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.612
+!MESSAGE To: bundle org.eclipse.jem.util [2.0.100,3.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:28:25.612
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.613
+!MESSAGE From: Structured Source Editor 1.1.101.v200908261807 (org.eclipse.wst.sse.ui 1.1.101.v200908261807)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.613
+!MESSAGE To: bundle org.eclipse.wst.validation [1.2.0,1.3.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:28:25.613
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.613
+!MESSAGE From: Structured Source Editor 1.1.102.v200910200227 (org.eclipse.wst.sse.ui 1.1.102.v200910200227)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.613
+!MESSAGE To: bundle org.eclipse.wst.validation [1.2.0,1.3.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:28:25.613
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.613
+!MESSAGE From: Validation Framework 1.2.102.v200905201610 (org.eclipse.wst.validation 1.2.102.v200905201610)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.613
+!MESSAGE To: bundle org.eclipse.wst.common.frameworks [1.1.200,2.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:28:25.613
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.613
+!MESSAGE From: Validation Framework 1.2.104.v200911120201 (org.eclipse.wst.validation 1.2.104.v200911120201)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:28:25.613
+!MESSAGE To: bundle org.eclipse.wst.common.frameworks [1.1.200,2.0.0)
+
+!ENTRY org.eclipse.equinox.p2.engine 4 4 2011-11-17 16:28:34.922
+!MESSAGE An error occurred while committing the engine session for profile: PlatformProfile.
+!SUBENTRY 1 org.eclipse.equinox.p2.engine 4 0 2011-11-17 16:28:34.922
+!MESSAGE An error occurred while undoing the org.eclipse.equinox.internal.p2.engine.phases.Sizing phase.
+!STACK 0
+java.lang.IllegalStateException: BundleContext is no longer valid
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.checkValid(BundleContextImpl.java:931)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.getServiceReference(BundleContextImpl.java:528)
+	at org.eclipse.equinox.internal.p2.core.helpers.ServiceHelper.getService(ServiceHelper.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.getPreferences(AbstractRepositoryManager.java:495)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.remember(AbstractRepositoryManager.java:860)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.addRepository(AbstractRepositoryManager.java:168)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:638)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:100)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.restoreSpecialRepositories(ArtifactRepositoryManager.java:123)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.restoreRepositories(AbstractRepositoryManager.java:995)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.getRepositoryProperty(AbstractRepositoryManager.java:547)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:669)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:100)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:96)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedArtifactRepositories(ProvisioningContext.java:160)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getArtifactRepositories(ProvisioningContext.java:143)
+	at org.eclipse.equinox.internal.p2.engine.phases.Sizing.completePhase(Sizing.java:91)
+	at org.eclipse.equinox.internal.p2.engine.Phase.postPerform(Phase.java:216)
+	at org.eclipse.equinox.internal.p2.engine.EngineSession.rollBackPhase(EngineSession.java:239)
+	at org.eclipse.equinox.internal.p2.engine.EngineSession.rollback(EngineSession.java:178)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:84)
+	at org.eclipse.equinox.internal.p2.engine.Engine.perform(Engine.java:44)
+	at org.eclipse.equinox.internal.p2.ui.ProvUI.getSize(ProvUI.java:230)
+	at org.eclipse.equinox.internal.p2.ui.dialogs.SizeComputingWizardPage$1.run(SizeComputingWizardPage.java:63)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SESSION 2011-11-17 16:28:35.963 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-11-17 16:30:38.571
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:30:38.571
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.571
+!MESSAGE Software being installed: Android Development Tools 15.0.0.v201110251216-213216 (com.android.ide.eclipse.adt.feature.group 15.0.0.v201110251216-213216)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.571
+!MESSAGE Software currently installed: Eclipse Platform 3.7.0.I20110613-1736 (org.eclipse.platform.ide 3.7.0.I20110613-1736)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:30:38.571
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.571
+!MESSAGE International Components for Unicode for Java (ICU4J) 4.4.2.v20110208 (com.ibm.icu 4.4.2.v20110208)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.571
+!MESSAGE International Components for Unicode for Java (ICU4J) 4.0.1.v20090822 (com.ibm.icu 4.0.1.v20090822)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.571
+!MESSAGE International Components for Unicode for Java (ICU4J) 4.0.1.v20090415 (com.ibm.icu 4.0.1.v20090415)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:30:38.571
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.571
+!MESSAGE From: Android Development Tools 15.0.0.v201110251216-213216 (com.android.ide.eclipse.adt.feature.group 15.0.0.v201110251216-213216)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.571
+!MESSAGE To: org.eclipse.wst.sse.ui 0.0.0
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:30:38.571
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.571
+!MESSAGE From: Java EMF Model Utilities 2.0.200.v200905140200 (org.eclipse.jem.util 2.0.200.v200905140200)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.571
+!MESSAGE To: bundle com.ibm.icu [3.8.1.1,4.1.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:30:38.571
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.571
+!MESSAGE From: Java EMF Model Utilities 2.0.201.v201001252130 (org.eclipse.jem.util 2.0.201.v201001252130)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.571
+!MESSAGE To: bundle com.ibm.icu [3.8.1.1,4.1.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:30:38.571
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.571
+!MESSAGE From: Eclipse Platform 3.7.0.dist-9pF7UHbtFs8vdhkukhQodUHz-siCnGGYotSeiRH (org.eclipse.platform.feature.group 3.7.0.dist-9pF7UHbtFs8vdhkukhQodUHz-siCnGGYotSeiRH)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.571
+!MESSAGE To: org.eclipse.rcp.feature.group [3.7.0.dist-9gBsFnkFlfr2B21319]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:30:38.571
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.571
+!MESSAGE From: Eclipse Platform 3.7.0.I20110613-1736 (org.eclipse.platform.ide 3.7.0.I20110613-1736)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.571
+!MESSAGE To: org.eclipse.platform.feature.group [3.7.0.dist-9pF7UHbtFs8vdhkukhQodUHz-siCnGGYotSeiRH]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:30:38.571
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.571
+!MESSAGE From: Eclipse RCP 3.7.0.dist-9gBsFnkFlfr2B21319 (org.eclipse.rcp.feature.group 3.7.0.dist-9gBsFnkFlfr2B21319)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.571
+!MESSAGE To: com.ibm.icu [4.4.2.v20110208]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:30:38.571
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.571
+!MESSAGE From: Common Frameworks 1.1.300.v200904160730 (org.eclipse.wst.common.frameworks 1.1.300.v200904160730)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.571
+!MESSAGE To: bundle org.eclipse.jem.util [2.0.100,3.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:30:38.571
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.571
+!MESSAGE From: Structured Source Editor 1.1.101.v200908261807 (org.eclipse.wst.sse.ui 1.1.101.v200908261807)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.572
+!MESSAGE To: bundle org.eclipse.wst.validation [1.2.0,1.3.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:30:38.572
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.572
+!MESSAGE From: Structured Source Editor 1.1.102.v200910200227 (org.eclipse.wst.sse.ui 1.1.102.v200910200227)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.572
+!MESSAGE To: bundle org.eclipse.wst.validation [1.2.0,1.3.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:30:38.572
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.572
+!MESSAGE From: Validation Framework 1.2.102.v200905201610 (org.eclipse.wst.validation 1.2.102.v200905201610)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.572
+!MESSAGE To: bundle org.eclipse.wst.common.frameworks [1.1.200,2.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:30:38.572
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.572
+!MESSAGE From: Validation Framework 1.2.104.v200911120201 (org.eclipse.wst.validation 1.2.104.v200911120201)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.572
+!MESSAGE To: bundle org.eclipse.wst.common.frameworks [1.1.200,2.0.0)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-11-17 16:30:38.577
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:30:38.577
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.577
+!MESSAGE Software being installed: Android Development Tools 15.0.0.v201110251216-213216 (com.android.ide.eclipse.adt.feature.group 15.0.0.v201110251216-213216)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.577
+!MESSAGE Software currently installed: Eclipse Platform 3.7.0.I20110613-1736 (org.eclipse.platform.ide 3.7.0.I20110613-1736)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:30:38.577
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.577
+!MESSAGE International Components for Unicode for Java (ICU4J) 4.4.2.v20110208 (com.ibm.icu 4.4.2.v20110208)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.577
+!MESSAGE International Components for Unicode for Java (ICU4J) 4.0.1.v20090822 (com.ibm.icu 4.0.1.v20090822)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.577
+!MESSAGE International Components for Unicode for Java (ICU4J) 4.0.1.v20090415 (com.ibm.icu 4.0.1.v20090415)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:30:38.577
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.577
+!MESSAGE From: Android Development Tools 15.0.0.v201110251216-213216 (com.android.ide.eclipse.adt.feature.group 15.0.0.v201110251216-213216)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.577
+!MESSAGE To: org.eclipse.wst.sse.ui 0.0.0
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:30:38.577
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.577
+!MESSAGE From: Java EMF Model Utilities 2.0.200.v200905140200 (org.eclipse.jem.util 2.0.200.v200905140200)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.577
+!MESSAGE To: bundle com.ibm.icu [3.8.1.1,4.1.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:30:38.577
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.577
+!MESSAGE From: Java EMF Model Utilities 2.0.201.v201001252130 (org.eclipse.jem.util 2.0.201.v201001252130)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.577
+!MESSAGE To: bundle com.ibm.icu [3.8.1.1,4.1.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:30:38.577
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.577
+!MESSAGE From: Eclipse Platform 3.7.0.dist-9pF7UHbtFs8vdhkukhQodUHz-siCnGGYotSeiRH (org.eclipse.platform.feature.group 3.7.0.dist-9pF7UHbtFs8vdhkukhQodUHz-siCnGGYotSeiRH)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.577
+!MESSAGE To: org.eclipse.rcp.feature.group [3.7.0.dist-9gBsFnkFlfr2B21319]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:30:38.577
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.577
+!MESSAGE From: Eclipse Platform 3.7.0.I20110613-1736 (org.eclipse.platform.ide 3.7.0.I20110613-1736)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.578
+!MESSAGE To: org.eclipse.platform.feature.group [3.7.0.dist-9pF7UHbtFs8vdhkukhQodUHz-siCnGGYotSeiRH]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:30:38.578
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.578
+!MESSAGE From: Eclipse RCP 3.7.0.dist-9gBsFnkFlfr2B21319 (org.eclipse.rcp.feature.group 3.7.0.dist-9gBsFnkFlfr2B21319)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.578
+!MESSAGE To: com.ibm.icu [4.4.2.v20110208]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:30:38.578
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.578
+!MESSAGE From: Common Frameworks 1.1.300.v200904160730 (org.eclipse.wst.common.frameworks 1.1.300.v200904160730)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.578
+!MESSAGE To: bundle org.eclipse.jem.util [2.0.100,3.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:30:38.578
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.578
+!MESSAGE From: Structured Source Editor 1.1.101.v200908261807 (org.eclipse.wst.sse.ui 1.1.101.v200908261807)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.578
+!MESSAGE To: bundle org.eclipse.wst.validation [1.2.0,1.3.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:30:38.578
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.578
+!MESSAGE From: Structured Source Editor 1.1.102.v200910200227 (org.eclipse.wst.sse.ui 1.1.102.v200910200227)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.578
+!MESSAGE To: bundle org.eclipse.wst.validation [1.2.0,1.3.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:30:38.578
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.578
+!MESSAGE From: Validation Framework 1.2.102.v200905201610 (org.eclipse.wst.validation 1.2.102.v200905201610)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.578
+!MESSAGE To: bundle org.eclipse.wst.common.frameworks [1.1.200,2.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:30:38.578
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.578
+!MESSAGE From: Validation Framework 1.2.104.v200911120201 (org.eclipse.wst.validation 1.2.104.v200911120201)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:30:38.578
+!MESSAGE To: bundle org.eclipse.wst.common.frameworks [1.1.200,2.0.0)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-11-17 16:32:25.858
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:32:25.858
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.858
+!MESSAGE Software being installed: Android Development Tools 15.0.0.v201110251216-213216 (com.android.ide.eclipse.adt.feature.group 15.0.0.v201110251216-213216)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.858
+!MESSAGE Software currently installed: Eclipse Platform 3.7.0.I20110613-1736 (org.eclipse.platform.ide 3.7.0.I20110613-1736)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:32:25.858
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.858
+!MESSAGE International Components for Unicode for Java (ICU4J) 4.4.2.v20110208 (com.ibm.icu 4.4.2.v20110208)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.858
+!MESSAGE International Components for Unicode for Java (ICU4J) 4.0.1.v20090822 (com.ibm.icu 4.0.1.v20090822)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.858
+!MESSAGE International Components for Unicode for Java (ICU4J) 4.0.1.v20090415 (com.ibm.icu 4.0.1.v20090415)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:32:25.858
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.858
+!MESSAGE From: Android Development Tools 15.0.0.v201110251216-213216 (com.android.ide.eclipse.adt.feature.group 15.0.0.v201110251216-213216)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.858
+!MESSAGE To: org.eclipse.wst.sse.ui 0.0.0
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:32:25.858
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.858
+!MESSAGE From: Java EMF Model Utilities 2.0.200.v200905140200 (org.eclipse.jem.util 2.0.200.v200905140200)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.858
+!MESSAGE To: bundle com.ibm.icu [3.8.1.1,4.1.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:32:25.858
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.858
+!MESSAGE From: Java EMF Model Utilities 2.0.201.v201001252130 (org.eclipse.jem.util 2.0.201.v201001252130)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.859
+!MESSAGE To: bundle com.ibm.icu [3.8.1.1,4.1.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:32:25.859
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.859
+!MESSAGE From: Eclipse Platform 3.7.0.dist-9pF7UHbtFs8vdhkukhQodUHz-siCnGGYotSeiRH (org.eclipse.platform.feature.group 3.7.0.dist-9pF7UHbtFs8vdhkukhQodUHz-siCnGGYotSeiRH)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.859
+!MESSAGE To: org.eclipse.rcp.feature.group [3.7.0.dist-9gBsFnkFlfr2B21319]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:32:25.859
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.859
+!MESSAGE From: Eclipse Platform 3.7.0.I20110613-1736 (org.eclipse.platform.ide 3.7.0.I20110613-1736)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.859
+!MESSAGE To: org.eclipse.platform.feature.group [3.7.0.dist-9pF7UHbtFs8vdhkukhQodUHz-siCnGGYotSeiRH]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:32:25.859
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.859
+!MESSAGE From: Eclipse RCP 3.7.0.dist-9gBsFnkFlfr2B21319 (org.eclipse.rcp.feature.group 3.7.0.dist-9gBsFnkFlfr2B21319)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.859
+!MESSAGE To: com.ibm.icu [4.4.2.v20110208]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:32:25.859
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.859
+!MESSAGE From: Common Frameworks 1.1.300.v200904160730 (org.eclipse.wst.common.frameworks 1.1.300.v200904160730)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.859
+!MESSAGE To: bundle org.eclipse.jem.util [2.0.100,3.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:32:25.859
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.859
+!MESSAGE From: Structured Source Editor 1.1.101.v200908261807 (org.eclipse.wst.sse.ui 1.1.101.v200908261807)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.859
+!MESSAGE To: bundle org.eclipse.wst.validation [1.2.0,1.3.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:32:25.859
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.859
+!MESSAGE From: Structured Source Editor 1.1.102.v200910200227 (org.eclipse.wst.sse.ui 1.1.102.v200910200227)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.859
+!MESSAGE To: bundle org.eclipse.wst.validation [1.2.0,1.3.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:32:25.859
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.859
+!MESSAGE From: Validation Framework 1.2.102.v200905201610 (org.eclipse.wst.validation 1.2.102.v200905201610)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.859
+!MESSAGE To: bundle org.eclipse.wst.common.frameworks [1.1.200,2.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:32:25.859
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.859
+!MESSAGE From: Validation Framework 1.2.104.v200911120201 (org.eclipse.wst.validation 1.2.104.v200911120201)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.859
+!MESSAGE To: bundle org.eclipse.wst.common.frameworks [1.1.200,2.0.0)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-11-17 16:32:25.860
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:32:25.860
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.860
+!MESSAGE Software being installed: Android Development Tools 15.0.0.v201110251216-213216 (com.android.ide.eclipse.adt.feature.group 15.0.0.v201110251216-213216)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.860
+!MESSAGE Software currently installed: Eclipse Platform 3.7.0.I20110613-1736 (org.eclipse.platform.ide 3.7.0.I20110613-1736)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:32:25.860
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.860
+!MESSAGE International Components for Unicode for Java (ICU4J) 4.4.2.v20110208 (com.ibm.icu 4.4.2.v20110208)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.860
+!MESSAGE International Components for Unicode for Java (ICU4J) 4.0.1.v20090822 (com.ibm.icu 4.0.1.v20090822)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.860
+!MESSAGE International Components for Unicode for Java (ICU4J) 4.0.1.v20090415 (com.ibm.icu 4.0.1.v20090415)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:32:25.860
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.860
+!MESSAGE From: Android Development Tools 15.0.0.v201110251216-213216 (com.android.ide.eclipse.adt.feature.group 15.0.0.v201110251216-213216)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.860
+!MESSAGE To: org.eclipse.wst.sse.ui 0.0.0
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:32:25.860
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.860
+!MESSAGE From: Java EMF Model Utilities 2.0.200.v200905140200 (org.eclipse.jem.util 2.0.200.v200905140200)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.860
+!MESSAGE To: bundle com.ibm.icu [3.8.1.1,4.1.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:32:25.860
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.860
+!MESSAGE From: Java EMF Model Utilities 2.0.201.v201001252130 (org.eclipse.jem.util 2.0.201.v201001252130)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.860
+!MESSAGE To: bundle com.ibm.icu [3.8.1.1,4.1.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:32:25.860
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.860
+!MESSAGE From: Eclipse Platform 3.7.0.dist-9pF7UHbtFs8vdhkukhQodUHz-siCnGGYotSeiRH (org.eclipse.platform.feature.group 3.7.0.dist-9pF7UHbtFs8vdhkukhQodUHz-siCnGGYotSeiRH)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.860
+!MESSAGE To: org.eclipse.rcp.feature.group [3.7.0.dist-9gBsFnkFlfr2B21319]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:32:25.860
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.860
+!MESSAGE From: Eclipse Platform 3.7.0.I20110613-1736 (org.eclipse.platform.ide 3.7.0.I20110613-1736)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.861
+!MESSAGE To: org.eclipse.platform.feature.group [3.7.0.dist-9pF7UHbtFs8vdhkukhQodUHz-siCnGGYotSeiRH]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:32:25.861
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.861
+!MESSAGE From: Eclipse RCP 3.7.0.dist-9gBsFnkFlfr2B21319 (org.eclipse.rcp.feature.group 3.7.0.dist-9gBsFnkFlfr2B21319)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.861
+!MESSAGE To: com.ibm.icu [4.4.2.v20110208]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:32:25.861
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.861
+!MESSAGE From: Common Frameworks 1.1.300.v200904160730 (org.eclipse.wst.common.frameworks 1.1.300.v200904160730)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.861
+!MESSAGE To: bundle org.eclipse.jem.util [2.0.100,3.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:32:25.861
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.861
+!MESSAGE From: Structured Source Editor 1.1.101.v200908261807 (org.eclipse.wst.sse.ui 1.1.101.v200908261807)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.861
+!MESSAGE To: bundle org.eclipse.wst.validation [1.2.0,1.3.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:32:25.861
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.861
+!MESSAGE From: Structured Source Editor 1.1.102.v200910200227 (org.eclipse.wst.sse.ui 1.1.102.v200910200227)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.861
+!MESSAGE To: bundle org.eclipse.wst.validation [1.2.0,1.3.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:32:25.861
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.861
+!MESSAGE From: Validation Framework 1.2.102.v200905201610 (org.eclipse.wst.validation 1.2.102.v200905201610)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.861
+!MESSAGE To: bundle org.eclipse.wst.common.frameworks [1.1.200,2.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:32:25.861
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.861
+!MESSAGE From: Validation Framework 1.2.104.v200911120201 (org.eclipse.wst.validation 1.2.104.v200911120201)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:32:25.861
+!MESSAGE To: bundle org.eclipse.wst.common.frameworks [1.1.200,2.0.0)
+!SESSION 2011-11-17 16:36:55.987 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-11-17 16:37:24.722
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:37:24.722
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.722
+!MESSAGE Software being installed: Android Development Tools 15.0.0.v201110251216-213216 (com.android.ide.eclipse.adt.feature.group 15.0.0.v201110251216-213216)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.722
+!MESSAGE Software currently installed: Eclipse CVS Client 1.3.100.dist-7B78FHk9exZ_ (org.eclipse.cvs.feature.group 1.3.100.dist-7B78FHk9exZ_)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:37:24.722
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.723
+!MESSAGE International Components for Unicode for Java (ICU4J) 4.4.2.v20110208 (com.ibm.icu 4.4.2.v20110208)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.723
+!MESSAGE International Components for Unicode for Java (ICU4J) 4.0.1.v20090822 (com.ibm.icu 4.0.1.v20090822)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.723
+!MESSAGE International Components for Unicode for Java (ICU4J) 4.0.1.v20090415 (com.ibm.icu 4.0.1.v20090415)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:37:24.723
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.723
+!MESSAGE From: Android Development Tools 15.0.0.v201110251216-213216 (com.android.ide.eclipse.adt.feature.group 15.0.0.v201110251216-213216)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.723
+!MESSAGE To: org.eclipse.wst.sse.ui 0.0.0
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:37:24.723
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.723
+!MESSAGE From: Eclipse CVS Client 1.3.100.dist-7B78FHk9exZ_ (org.eclipse.cvs.feature.group 1.3.100.dist-7B78FHk9exZ_)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.723
+!MESSAGE To: org.eclipse.platform.feature.group 3.7.0
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:37:24.723
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.723
+!MESSAGE From: Java EMF Model Utilities 2.0.200.v200905140200 (org.eclipse.jem.util 2.0.200.v200905140200)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.723
+!MESSAGE To: bundle com.ibm.icu [3.8.1.1,4.1.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:37:24.723
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.723
+!MESSAGE From: Java EMF Model Utilities 2.0.201.v201001252130 (org.eclipse.jem.util 2.0.201.v201001252130)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.723
+!MESSAGE To: bundle com.ibm.icu [3.8.1.1,4.1.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:37:24.723
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.723
+!MESSAGE From: Eclipse Platform 3.7.0.dist-9pF7UHbtFs8vdhkukhQodUHz-siCnGGYotSeiRH (org.eclipse.platform.feature.group 3.7.0.dist-9pF7UHbtFs8vdhkukhQodUHz-siCnGGYotSeiRH)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.723
+!MESSAGE To: org.eclipse.rcp.feature.group [3.7.0.dist-9gBsFnkFlfr2B21319]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:37:24.723
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.723
+!MESSAGE From: Eclipse RCP 3.7.0.dist-9gBsFnkFlfr2B21319 (org.eclipse.rcp.feature.group 3.7.0.dist-9gBsFnkFlfr2B21319)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.723
+!MESSAGE To: com.ibm.icu [4.4.2.v20110208]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:37:24.723
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.723
+!MESSAGE From: Common Frameworks 1.1.300.v200904160730 (org.eclipse.wst.common.frameworks 1.1.300.v200904160730)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.723
+!MESSAGE To: bundle org.eclipse.jem.util [2.0.100,3.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:37:24.723
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.723
+!MESSAGE From: Structured Source Editor 1.1.101.v200908261807 (org.eclipse.wst.sse.ui 1.1.101.v200908261807)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.723
+!MESSAGE To: bundle org.eclipse.wst.validation [1.2.0,1.3.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:37:24.723
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.723
+!MESSAGE From: Structured Source Editor 1.1.102.v200910200227 (org.eclipse.wst.sse.ui 1.1.102.v200910200227)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.723
+!MESSAGE To: bundle org.eclipse.wst.validation [1.2.0,1.3.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:37:24.723
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.723
+!MESSAGE From: Validation Framework 1.2.102.v200905201610 (org.eclipse.wst.validation 1.2.102.v200905201610)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.723
+!MESSAGE To: bundle org.eclipse.wst.common.frameworks [1.1.200,2.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:37:24.723
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.723
+!MESSAGE From: Validation Framework 1.2.104.v200911120201 (org.eclipse.wst.validation 1.2.104.v200911120201)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.724
+!MESSAGE To: bundle org.eclipse.wst.common.frameworks [1.1.200,2.0.0)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2011-11-17 16:37:24.727
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:37:24.727
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.727
+!MESSAGE Software being installed: Android Development Tools 15.0.0.v201110251216-213216 (com.android.ide.eclipse.adt.feature.group 15.0.0.v201110251216-213216)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.727
+!MESSAGE Software currently installed: Eclipse CVS Client 1.3.100.dist-7B78FHk9exZ_ (org.eclipse.cvs.feature.group 1.3.100.dist-7B78FHk9exZ_)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:37:24.727
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.727
+!MESSAGE International Components for Unicode for Java (ICU4J) 4.4.2.v20110208 (com.ibm.icu 4.4.2.v20110208)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.727
+!MESSAGE International Components for Unicode for Java (ICU4J) 4.0.1.v20090822 (com.ibm.icu 4.0.1.v20090822)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.727
+!MESSAGE International Components for Unicode for Java (ICU4J) 4.0.1.v20090415 (com.ibm.icu 4.0.1.v20090415)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:37:24.727
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.728
+!MESSAGE From: Android Development Tools 15.0.0.v201110251216-213216 (com.android.ide.eclipse.adt.feature.group 15.0.0.v201110251216-213216)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.728
+!MESSAGE To: org.eclipse.wst.sse.ui 0.0.0
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:37:24.728
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.728
+!MESSAGE From: Eclipse CVS Client 1.3.100.dist-7B78FHk9exZ_ (org.eclipse.cvs.feature.group 1.3.100.dist-7B78FHk9exZ_)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.728
+!MESSAGE To: org.eclipse.platform.feature.group 3.7.0
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:37:24.728
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.728
+!MESSAGE From: Java EMF Model Utilities 2.0.200.v200905140200 (org.eclipse.jem.util 2.0.200.v200905140200)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.728
+!MESSAGE To: bundle com.ibm.icu [3.8.1.1,4.1.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:37:24.728
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.728
+!MESSAGE From: Java EMF Model Utilities 2.0.201.v201001252130 (org.eclipse.jem.util 2.0.201.v201001252130)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.728
+!MESSAGE To: bundle com.ibm.icu [3.8.1.1,4.1.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:37:24.728
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.728
+!MESSAGE From: Eclipse Platform 3.7.0.dist-9pF7UHbtFs8vdhkukhQodUHz-siCnGGYotSeiRH (org.eclipse.platform.feature.group 3.7.0.dist-9pF7UHbtFs8vdhkukhQodUHz-siCnGGYotSeiRH)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.728
+!MESSAGE To: org.eclipse.rcp.feature.group [3.7.0.dist-9gBsFnkFlfr2B21319]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:37:24.728
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.728
+!MESSAGE From: Eclipse RCP 3.7.0.dist-9gBsFnkFlfr2B21319 (org.eclipse.rcp.feature.group 3.7.0.dist-9gBsFnkFlfr2B21319)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.728
+!MESSAGE To: com.ibm.icu [4.4.2.v20110208]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:37:24.728
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.728
+!MESSAGE From: Common Frameworks 1.1.300.v200904160730 (org.eclipse.wst.common.frameworks 1.1.300.v200904160730)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.728
+!MESSAGE To: bundle org.eclipse.jem.util [2.0.100,3.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:37:24.728
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.728
+!MESSAGE From: Structured Source Editor 1.1.101.v200908261807 (org.eclipse.wst.sse.ui 1.1.101.v200908261807)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.728
+!MESSAGE To: bundle org.eclipse.wst.validation [1.2.0,1.3.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:37:24.728
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.728
+!MESSAGE From: Structured Source Editor 1.1.102.v200910200227 (org.eclipse.wst.sse.ui 1.1.102.v200910200227)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.728
+!MESSAGE To: bundle org.eclipse.wst.validation [1.2.0,1.3.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:37:24.728
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.728
+!MESSAGE From: Validation Framework 1.2.102.v200905201610 (org.eclipse.wst.validation 1.2.102.v200905201610)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.728
+!MESSAGE To: bundle org.eclipse.wst.common.frameworks [1.1.200,2.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2011-11-17 16:37:24.728
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.728
+!MESSAGE From: Validation Framework 1.2.104.v200911120201 (org.eclipse.wst.validation 1.2.104.v200911120201)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2011-11-17 16:37:24.728
+!MESSAGE To: bundle org.eclipse.wst.common.frameworks [1.1.200,2.0.0)
+!SESSION 2011-11-17 16:53:44.097 -----------------------------------------------
+eclipse.buildId=M20110909-1335
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-11-17 16:57:08.397
+!MESSAGE Failed to load properties file for project 'ShopApp'
+
+!ENTRY org.eclipse.ui 4 4 2011-11-17 16:57:24.679
+!MESSAGE Invalid preference page path: XML Syntax
