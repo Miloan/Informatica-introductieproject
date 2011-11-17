@@ -1,0 +1,8 @@
+*.sh #Linux scripts om bijvoorbeeld de terminal te starten
+
+# OS generated files #
+######################
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
